@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>
+Aventuras en el patio del cole
+</title>
+</head>
+<body bgcolor="#7ab3bd">
+<br>
+<center><img src="../imagenes/titulo.jpg"></center>
+<br>
+
+
+<center><img src="../imagenes/.jpg"></center>
+<br><br>
+
+<blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><p>
+Adri&aacute;n chuta el bal&oacute;n muy fuerte y mueve una caja que hab&iacute;a contra la pared.
+</p>
+<p>-&iquest;Hab&eacute;is visto este agujero? Parece profundo...
+
+</p></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
+<br>
+<center>
+<table>
+<tr>
+	<td>
+		<p>-&iexcl;Hey, todos! &iexcl;Mirad esto! Yo voy para dentro</p>
+	</td>
+	<td>
+		<center><a href="11.html"><img src="../imagenes/boton.jpg"></a></center>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>-Vamos a dec&iacute;rselo a alg&uacute;n adulto</p>
+	</td>
+	<td>
+		<center><a href="12.html"><img src="../imagenes/boton.jpg"></a></center>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>-&iquest;Vamos todos? Venga, antes de que se den cuenta</p>
+	</td>
+	<td>
+		<center><a href="3.html"><img src="../imagenes/boton.jpg"></a></center>
+	</td>
+</tr>
+</table>
+</center>
+
+
+</body>
+</html>

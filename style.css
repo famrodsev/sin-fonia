@@ -1,0 +1,89 @@
+#titulo {
+margin: 0px 100px;
+}
+
+#imagen_lateral {
+float: right;
+margin-top: 0px;
+margin-left: 40px;
+width: 230px;
+}
+
+#firma {
+position: absolute;
+top: 1000px;
+right: 200px;
+}
+
+#firma2 {
+float: right;
+}
+
+#firma3 {
+position: absolute;
+top: 1200px;
+right: 200px;
+}
+
+#botones {
+float: left;
+width: 230px;
+margin-top: 80px;
+margin-right: 60px;
+}
+
+#contenido {
+max-width: 800px;
+margin-left: 290px;
+margin-right: 10px;
+}
+
+#contenido p {
+line-height: 40px;
+padding-top: 70px;
+margin-right: 10px;
+color: #363636;
+}
+
+img {
+text-decoration: none;
+border-style: none;
+}
+
+a {
+text-decoration: none;
+border-style: none;
+color: #363636;
+}
+
+#cubo{
+position: absolute;
+margin-left: 370px;
+padding-top: 70px;
+}
+
+#archivadores{
+float: left;
+margin-left: 80px;
+padding-top: 140px;
+}
+
+#lista{
+margin-left: 400px;
+padding-top: 140px;
+}
+
+#grande{
+margin-left: 130px;
+padding-top: 60px;
+}
+
+#flechas{
+margin-left: 200px;
+padding-top: 30px;
+}
+
+#volver{
+margin-left: 200px;
+padding-top: 30px;
+}

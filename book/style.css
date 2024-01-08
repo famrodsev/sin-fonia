@@ -1,0 +1,41 @@
+#titulo {
+margin: 50px 0px;
+}
+
+#imagen {
+margin-top: 80px;
+margin-left: 300px;
+width: 0px;
+}
+
+#anterior {
+float: left;
+margin: 150px 40px;
+}
+
+#siguiente {
+float: right;
+margin: 150px 40px;
+}
+
+#galeria {
+float: right;
+margin:50px 80px;
+}
+
+#mini {
+float: left;
+margin:50px 40px;
+}
+
+a {
+text-decoration: none;
+border-style: none;
+color: #363636;
+}
+
+img {
+text-decoration: none;
+border-style: none;
+color: #363636;
+}

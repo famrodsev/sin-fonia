@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Al & Al
+</title>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+
+
+<div id="titulo">
+	<img src="imagenes/titulo.jpg">
+</div>
+<div id="izquierda">
+	<img src="imagenes/izq_off.jpg">
+</div>
+<div id="imagen">
+	<img src="imagenes/01alberto.jpg">
+</div>
+<div id="derecha">
+	<a href="2.html"><img src="imagenes/der.jpg"></a>
+</div>
+<br>
+<div id="contenido">
+<p>Este es Alberto. Quiere ser diseñador.</p>
+</div>
+
+
+
+</body>
+</html>

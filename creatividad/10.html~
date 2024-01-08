@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Al & Al
+</title>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+
+
+<div id="titulo">
+	<img src="imagenes/titulo.jpg">
+</div>
+<div id="izquierda">
+	<a href="9.html"><img src="imagenes/izq.jpg"></a>
+</div>
+<div id="imagen">
+	<img src="imagenes/10software.jpg">
+</div>
+<div id="derecha">
+	<a href="11.html"><img src="imagenes/der.jpg"></a>
+</div>
+<br>
+<div id="contenido">
+<p>Por su parte, Alberto descubri&oacute; las bondades del software libre. Celtx, Gimp, Cinelerra, Audacity, Blender... Aprendi&oacute; a dibujar y modelar, y a hacer guiones.</p>
+<p><a href="http://www.deviantart.com/">Deviantart</a></p>
+</div>
+
+
+
+
+
+</body>
+</html>

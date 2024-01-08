@@ -1,0 +1,70 @@
+<html>
+<head>
+<title>
+Aventuras en el patio del cole
+</title>
+</head>
+<body bgcolor="#7ab3bd">
+<br>
+<center><img src="../imagenes/titulo.jpg"></center>
+<br>
+
+
+<center><img src="../imagenes/.jpg"></center>
+<br><br>
+
+<blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><p>
+
+Has conocido a:
+
+</p></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
+<br>
+<center>
+<table>
+<tr>
+	<td>
+		<img src=".jpg">
+	</td>
+	<td>
+		Micaela
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src=".jpg">
+	</td>
+	<td>
+		Wahid
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src=".jpg">
+	</td>
+	<td>
+		&Oacute;scar
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src=".jpg">
+	</td>
+	<td>
+		Sof&iacute;a
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src=".jpg">
+	</td>
+	<td>
+		Carmen
+	</td>
+</tr>
+</table>
+</center>
+
+<center><a href="../index.html"><img src="../imagenes/boton.jpg"></a></center>
+
+</body>
+</html>

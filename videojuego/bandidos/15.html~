@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>
+Aventuras en el patio del cole
+</title>
+</head>
+<body bgcolor="#7ab3bd">
+<br>
+<center><img src="../imagenes/titulo.jpg"></center>
+<br>
+
+
+<center><img src="../imagenes/.jpg"></center>
+<br><br>
+
+<blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><p>
+
+...veis la luz de una linterna movi&eacute;ndose a lo lejos.
+
+</p></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
+<br>
+<center>
+<table>
+<tr>
+	<td>
+		<p>-Jaja, vaya un sitio raro para pasear. Vamos a preguntarle si sabe a d&oacute;nde lleva esto</p>
+	</td>
+	<td>
+		<center><a href="18.html"><img src="../imagenes/boton.jpg"></a></center>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>-Esto es muy raro, mejor nos escondemos detr&aacute;s de una roca</p>
+	</td>
+	<td>
+		<center><a href="16.html"><img src="../imagenes/boton.jpg"></a></center>
+	</td>
+</tr>
+
+</table>
+</center>
+
+
+</body>
+</html>

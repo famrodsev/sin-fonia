@@ -1,0 +1,274 @@
+body {
+	background-image: url(imagenes/tortuga.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+div.head {
+	color: #ffc;
+	background-color: rgba(150,150,150,0.4);
+	/*width: 70%;*/
+	width: 84%;
+	margin-left: 7%;
+	margin-bottom: 1.5rem;
+	margin-top: 2rem;
+	border-radius: 5rem 5rem 0 0;
+	padding: 0.6rem 1rem 0;
+	display: block;
+}
+
+header.head {
+	background-color: rgba(250, 220, 140, 0.8);
+	width: 89%;
+	margin-bottom: 0;
+	margin-top: 0.5rem;
+	border-radius: 4.5rem 4.5rem 0 0;
+	padding: 2rem 5%;
+	box-shadow: 10px 0px 5px rgba(0, 0, 0, 0.6);
+	border-left: double #ffc 5px;
+}
+
+div.botones {
+	background-color: rgba(150,150,150,0.4);
+	width: 84%;
+	height: 3rem;
+	margin-left: 7%;
+	margin-bottom: 1.5rem;
+	padding: 0 1rem;
+	overflow: hidden;
+	display: block;
+}
+
+nav.botones {
+	background-color: rgba(250, 220, 140, 0.8);
+	width: 89%;
+	margin: 0;
+	padding: 0.9rem 5%;
+	max-height: 3rem;
+	box-shadow: 10px 0px 5px rgba(0, 0, 0, 0.6);
+	border-left: double #ffc 5px;
+}
+
+a.boton {
+	text-decoration: none;
+	color: #ffc;
+	text-shadow:3px 3px 5px #000000;
+	padding: 0.9rem 4%;
+}
+
+a.boton:hover {
+	background-color: rgba(251, 207, 90, 0.4);
+	box-shadow: 4px 0px 5px rgba(0, 0, 0, 0.6);
+}
+
+div.contenido {
+	background-color: rgba(150,150,150,0.4);
+	width: 84%;
+	margin-left: 7%;
+	margin-top: 1.5rem;
+	border-radius: 0 0 5rem 5rem;
+	padding: 0 1rem 0.6rem;
+	display: block;
+}
+
+main.contenido {
+	background-color: rgba(250, 220, 140, 0.8);
+	width: 89%;
+	margin-top: 0;
+	margin-bottom: 0.5rem;
+	border-radius: 0 0 4.5rem 4.5rem;
+	padding: 2rem 5%;
+	box-shadow: 10px 0px 5px rgba(0, 0, 0, 0.6);
+	border-left: double #ffc 5px;
+	overflow: hidden;
+}
+
+span#dragon {
+	width: 180px;
+	padding-top: 100%;
+	padding-bottom: 35%;
+	background:
+		url(imagenes/arbol.png) 100% 85% repeat-x,
+		url(imagenes/arbol.png) 20% 10% repeat-x,
+		url(imagenes/puente.png) 0% 50% repeat-x,
+		url(imagenes/dragon.gif) repeat-x fixed,
+		url(imagenes/sombradragon.png) repeat-x fixed,
+		url(imagenes/rio.png) repeat-y;
+	display: block;
+	border-left: double #ffc 4px;
+	border-right: double #ffc 4px;
+}
+
+ol#bibliografia {
+	float: right;
+	margin-left: 180px;
+}
+
+p.frase {
+	clear: left;
+	float: left;
+	width: 50%;
+}
+
+img.flecha {
+	float: left;
+	padding: 1.5rem 2rem;
+}
+
+p.respuesta {
+	float: left;
+	width: 30%;
+}
+
+h3.pie {
+	clear: left;
+	padding-top: 3rem;
+}
+
+div.texto-muerte {
+	float: right;
+	background-color: rgba(0, 0, 0, 0.7);
+	border: double black 5px;
+	padding: 3rem;
+	display: block;
+	height: 150px;
+	width: 30%;
+	border-radius: 3rem;
+	overflow: hidden;
+	color: white;
+}
+
+span.sig {
+	margin-top: 3rem;
+	clear: right;
+	float: right;
+	background-color: rgba(0, 0, 0, 0.7);
+	border: double black 5px;
+	border-radius: 1rem;
+	text-shadow:3px 3px 5px #000000;
+	padding: 0.9rem 4.5%;
+	color: white;
+}
+
+div.texto-muerte p {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.7rem;
+}
+
+td {
+	padding: 0.6rem 1.5rem;
+	text-align: center;
+	margin: 0.5rem;
+	border-top: 1px brown solid;
+	border-left: 1px brown solid;
+	border-right: 2px #ffc solid;
+	border-bottom: 2px #ffc solid;
+}
+
+a {
+	text-decoration: none;
+	color: brown;
+	font-weight: bold;
+}
+
+table {
+	float: left;
+	margin-top: 4rem;
+}
+
+img#bibliotecario {
+	float: right;
+}
+
+div.inicio, div.form {
+	border-right: 2px #ffc solid;
+	border-bottom: 2px #ffc solid;
+	display: block;
+	padding: 2rem;
+	margin-bottom: 2rem;
+	border-radius: 2rem;
+	background-color: rgba(255, 255, 204, 0.2);
+	overflow: hidden;
+}
+
+div.inicio p, div.form p {
+	font-size: 1.1rem;
+	color: #332;
+    text-indent: 2rem;
+	margin: 0.5rem 0;
+}
+
+div.seleccionado {
+	background-color: rgba(255, 255, 204, 0.6);
+}
+
+span.enlaces, .der {
+	float: right;
+	margin-top: 1rem;
+	margin-left: 1rem;
+}
+
+.izq {
+	float: left;
+	margin-right: 1rem;
+}
+
+.centro {
+	display:block;
+	margin:auto;
+}
+
+span.enlaces a, input.botform{
+	background-color: rgba(255, 255, 204, 0.2);
+	color: #332;
+	padding: 0.5rem 1rem;
+	margin: 0 1rem;
+	border-right: 2px #ffc solid;
+	border-bottom: 2px #ffc solid;
+	border-radius: 0.3rem;
+	font-weight: bold;
+}
+
+form {
+	padding: 3rem 4rem;
+	border: 1px #ffc solid;
+	margin: 1rem 3rem;
+}
+
+div.bio {
+	margin: 1.5rem;
+	padding: 0.5rem 2rem 1rem;
+	display: block;
+	border: 2px #ffc solid;
+	border-radius: 1rem;
+	overflow: hidden;
+	font-size: 1.1rem;
+	background-color: rgba(255, 255, 204, 0.2);
+}
+
+span.bio p {
+	margin: 3rem 0;
+}
+
+span.boton2 {
+	display: block;
+	margin:auto;
+	text-align: center;
+	border: 2px #ffc solid;
+	border-radius: 0.5rem;
+	background-color: rgba(255, 255, 204, 0.2);
+	padding: 0.7rem 1.5rem;
+}
+
+p.realidad, p.respuesta, p.fmuerte, img#equipaje {
+	display: none;
+}
+
+p.mostrar {
+	display: block;
+}
+
+img#equipaje {
+	position: fixed;
+}

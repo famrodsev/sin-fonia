@@ -1,0 +1,39 @@
+#titulo {
+margin: 40px 400px;
+}
+
+img {
+text-decoration: none;
+border-style: none;
+}
+
+a {
+text-decoration: none;
+border-style: none;
+color: #363636;
+font-weight: bold;
+}
+
+#izquierda {
+float: left;
+margin: 200px 100px;
+}
+
+#imagen {
+float: left;
+margin: 20px 100px;
+}
+
+#derecha {
+float: left;
+margin: 200px 50px;
+}
+
+#contenido {
+margin: 300px 250px;
+}
+
+#contenido p{
+color: #363636;
+font-weight: bold;
+}

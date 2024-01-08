@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Al & Al
+</title>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+
+
+<div id="titulo">
+	<img src="imagenes/titulo.jpg">
+</div>
+<div id="izquierda">
+	<a href="11.html"><img src="imagenes/izq.jpg"></a>
+</div>
+<div id="imagen">
+	<img src="imagenes/12vueltaempezar.jpg">
+</div>
+<div id="derecha">
+	<img src="imagenes/der_off.jpg">
+</div>
+<br>
+<div id="contenido">
+<p>Y con el apoyo mutuo y sus nuevos recursos... ¡hasta el infinito, y más allá!</p>
+</div>
+
+
+
+
+
+</body>
+</html>

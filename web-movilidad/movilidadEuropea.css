@@ -1,0 +1,77 @@
+body{
+	background-image: url("fondo.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	color: #444;
+	font-size: 1.5rem;
+}
+
+#titulo{
+	font-size: 4rem;
+	text-transform: capitalize; 
+	text-align: center;
+	margin: 2rem 0 3rem;
+}
+
+#general .boton {
+	background-color: rgba(255, 255, 255, 0.5);
+	border-right: 2px solid #888;
+	padding: 1rem 4rem;
+	float: left;
+	overflow: hidden;
+	border-top: 2px solid #888;
+}
+
+#general .boton:hover {
+	background-color: rgba(70, 70, 30, 0.5);
+	color: white;
+}
+
+.boton:hover {
+	background-color: rgba(70, 70, 30, 0.5);
+	color: white;
+}
+
+main {
+	clear: left;
+	background-color: rgba(255, 255, 255, 0.5);
+	border: 2px solid #888;
+	margin: 0rem 8% 3rem;
+	padding: 5%;
+	min-height: 15rem;
+	overflow: hidden;
+}
+
+nav#general {
+	margin: 0 8%;
+	border-left: 2px solid #888;
+	overflow: hidden;
+}
+
+nav#especifico {
+	background-color: rgba(255, 255, 255, 0.5);
+	border: 2px solid #888;
+	width: 11rem;
+	position: absolute;
+	top: 16rem;
+	left: 70%;
+}
+
+#especifico .boton {
+	padding: 1rem 2rem;
+}
+
+a {
+	text-decoration: none;
+	color: #444;
+}
+
+p a {
+	color: #698;
+}
+
+div.texto {
+	float: left;
+	max-width: 70%;
+	text-align: justify;
+}
